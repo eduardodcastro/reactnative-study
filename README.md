@@ -3,14 +3,15 @@
 Realizar a criação de um aplicativo utilizando react native, o objetivo do aplicativo é criar 3 telas.
 Tela de Login , Tela de Tarefas , Tela de Responsáveis.
 
-1 - Tela de Login.
-• Deve ter um Header
-• Deve ter uma Imagem
-• O botão e formulário precisa estar perto do footer
-Casos de Tests
-• Dado que o usuário insira seu nome no formulário, deve habilitar o botão de entrar
+1 - Tela de Login <br />
+• Deve ter um Header; <br />
+• Deve ter uma Imagem; <br />
+• O botão e formulário precisa estar perto do footer. <br /><br />
+
+Casos de Tests <br />
+• Dado que o usuário insira seu nome no formulário, deve habilitar o botão de entrar; <br /> 
 • Caso o usuário digite alguma letra maiúscula no formulário não deve habilitar o botão de
-entrar.
+entrar; <br />
 • Quando ele pressionar o botão para entrar, deve ir para tela de TAREFAS.
 
 2 - Tela de TAREFAS
